@@ -5,5 +5,5 @@ variable "resource_group_location" {
 
 variable "resource_group_name" {
   default = "sp-tftest-rg"
-  description = "Name of the resource group."
+  description = "Name of the resource group. Updated comment"
 }
